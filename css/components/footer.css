@@ -1,0 +1,29 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #d67119;
+}
+
+.fa-brands {
+  font-weight: 400;
+}
+
+.fa-github {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-instagram {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-linkedin {
+  text-align: center;
+  width: 1.25em;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #d5118d;
+}
